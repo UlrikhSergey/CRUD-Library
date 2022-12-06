@@ -1,7 +1,6 @@
 package com.ulrikh.spring.mvc.library.entity;
 
 import javax.persistence.*;
-/*Тест gitHub изменений*/
 @Entity
 @Table(name = "books")
 public class Book {
